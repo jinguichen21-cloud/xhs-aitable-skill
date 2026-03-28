@@ -1,0 +1,19 @@
+{
+  "name": "xhs-aitable-skill",
+  "version": "0.1.0",
+  "description": "追踪小红书热点笔记并保存到钉钉 AI 表格。适用于电商选品、内容监控、热点分析场景。",
+  "keywords": [
+    "xiaohongshu",
+    "trend",
+    "ai-table",
+    "ecommerce",
+    "real",
+    "选品",
+    "热点追踪"
+  ],
+  "requires": {
+    "skills": [
+      "dws"
+    ]
+  }
+}
